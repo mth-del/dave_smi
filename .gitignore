@@ -1,0 +1,20 @@
+# ROS/Catkin build artifacts
+build/
+devel/
+logs/
+
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
