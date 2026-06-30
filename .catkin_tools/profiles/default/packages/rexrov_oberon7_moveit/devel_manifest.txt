@@ -1,0 +1,4 @@
+dave/urdf/robots/rexrov_oberon7_moveit
+/home/timsea/code_space/uuv_ws/devel/.private/rexrov_oberon7_moveit/lib/pkgconfig/rexrov_oberon7_moveit.pc /home/timsea/code_space/uuv_ws/devel/lib/pkgconfig/rexrov_oberon7_moveit.pc
+/home/timsea/code_space/uuv_ws/devel/.private/rexrov_oberon7_moveit/share/rexrov_oberon7_moveit/cmake/rexrov_oberon7_moveitConfig.cmake /home/timsea/code_space/uuv_ws/devel/share/rexrov_oberon7_moveit/cmake/rexrov_oberon7_moveitConfig.cmake
+/home/timsea/code_space/uuv_ws/devel/.private/rexrov_oberon7_moveit/share/rexrov_oberon7_moveit/cmake/rexrov_oberon7_moveitConfig-version.cmake /home/timsea/code_space/uuv_ws/devel/share/rexrov_oberon7_moveit/cmake/rexrov_oberon7_moveitConfig-version.cmake

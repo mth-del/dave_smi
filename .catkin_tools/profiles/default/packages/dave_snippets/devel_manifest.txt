@@ -1,0 +1,4 @@
+dave/urdf/dave_snippets
+/home/timsea/code_space/uuv_ws/devel/.private/dave_snippets/lib/pkgconfig/dave_snippets.pc /home/timsea/code_space/uuv_ws/devel/lib/pkgconfig/dave_snippets.pc
+/home/timsea/code_space/uuv_ws/devel/.private/dave_snippets/share/dave_snippets/cmake/dave_snippetsConfig-version.cmake /home/timsea/code_space/uuv_ws/devel/share/dave_snippets/cmake/dave_snippetsConfig-version.cmake
+/home/timsea/code_space/uuv_ws/devel/.private/dave_snippets/share/dave_snippets/cmake/dave_snippetsConfig.cmake /home/timsea/code_space/uuv_ws/devel/share/dave_snippets/cmake/dave_snippetsConfig.cmake

@@ -1,0 +1,4 @@
+uuv_manipulators/uuv_manipulators_description
+/home/timsea/code_space/uuv_ws/devel/.private/uuv_manipulators_description/lib/pkgconfig/uuv_manipulators_description.pc /home/timsea/code_space/uuv_ws/devel/lib/pkgconfig/uuv_manipulators_description.pc
+/home/timsea/code_space/uuv_ws/devel/.private/uuv_manipulators_description/share/uuv_manipulators_description/cmake/uuv_manipulators_descriptionConfig.cmake /home/timsea/code_space/uuv_ws/devel/share/uuv_manipulators_description/cmake/uuv_manipulators_descriptionConfig.cmake
+/home/timsea/code_space/uuv_ws/devel/.private/uuv_manipulators_description/share/uuv_manipulators_description/cmake/uuv_manipulators_descriptionConfig-version.cmake /home/timsea/code_space/uuv_ws/devel/share/uuv_manipulators_description/cmake/uuv_manipulators_descriptionConfig-version.cmake

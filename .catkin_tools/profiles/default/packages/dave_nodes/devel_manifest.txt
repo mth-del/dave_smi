@@ -1,0 +1,12 @@
+dave/examples/dave_nodes
+/home/timsea/code_space/uuv_ws/devel/.private/dave_nodes/lib/pkgconfig/dave_nodes.pc /home/timsea/code_space/uuv_ws/devel/lib/pkgconfig/dave_nodes.pc
+/home/timsea/code_space/uuv_ws/devel/.private/dave_nodes/lib/dave_nodes/dvl_gradient_plot.py /home/timsea/code_space/uuv_ws/devel/lib/dave_nodes/dvl_gradient_plot.py
+/home/timsea/code_space/uuv_ws/devel/.private/dave_nodes/lib/dave_nodes/bimanual_simple_demo.py /home/timsea/code_space/uuv_ws/devel/lib/dave_nodes/bimanual_simple_demo.py
+/home/timsea/code_space/uuv_ws/devel/.private/dave_nodes/lib/dave_nodes/simple_box_motion.py /home/timsea/code_space/uuv_ws/devel/lib/dave_nodes/simple_box_motion.py
+/home/timsea/code_space/uuv_ws/devel/.private/dave_nodes/lib/dave_nodes/teleport_vehicle.py /home/timsea/code_space/uuv_ws/devel/lib/dave_nodes/teleport_vehicle.py
+/home/timsea/code_space/uuv_ws/devel/.private/dave_nodes/lib/dave_nodes/dvl_state_and_gradient_uuvsim.py /home/timsea/code_space/uuv_ws/devel/lib/dave_nodes/dvl_state_and_gradient_uuvsim.py
+/home/timsea/code_space/uuv_ws/devel/.private/dave_nodes/lib/dave_nodes/bimanual_integrated_world.py /home/timsea/code_space/uuv_ws/devel/lib/dave_nodes/bimanual_integrated_world.py
+/home/timsea/code_space/uuv_ws/devel/.private/dave_nodes/lib/dave_nodes/dvl_state_and_gradient_dsl.py /home/timsea/code_space/uuv_ws/devel/lib/dave_nodes/dvl_state_and_gradient_dsl.py
+/home/timsea/code_space/uuv_ws/devel/.private/dave_nodes/lib/dave_nodes/joy_thrusterop.py /home/timsea/code_space/uuv_ws/devel/lib/dave_nodes/joy_thrusterop.py
+/home/timsea/code_space/uuv_ws/devel/.private/dave_nodes/share/dave_nodes/cmake/dave_nodesConfig.cmake /home/timsea/code_space/uuv_ws/devel/share/dave_nodes/cmake/dave_nodesConfig.cmake
+/home/timsea/code_space/uuv_ws/devel/.private/dave_nodes/share/dave_nodes/cmake/dave_nodesConfig-version.cmake /home/timsea/code_space/uuv_ws/devel/share/dave_nodes/cmake/dave_nodesConfig-version.cmake

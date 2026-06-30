@@ -1,0 +1,4 @@
+uuv_manipulators/oberon7/oberon7_moveit_config
+/home/timsea/code_space/uuv_ws/devel/.private/oberon7_moveit_config/lib/pkgconfig/oberon7_moveit_config.pc /home/timsea/code_space/uuv_ws/devel/lib/pkgconfig/oberon7_moveit_config.pc
+/home/timsea/code_space/uuv_ws/devel/.private/oberon7_moveit_config/share/oberon7_moveit_config/cmake/oberon7_moveit_configConfig-version.cmake /home/timsea/code_space/uuv_ws/devel/share/oberon7_moveit_config/cmake/oberon7_moveit_configConfig-version.cmake
+/home/timsea/code_space/uuv_ws/devel/.private/oberon7_moveit_config/share/oberon7_moveit_config/cmake/oberon7_moveit_configConfig.cmake /home/timsea/code_space/uuv_ws/devel/share/oberon7_moveit_config/cmake/oberon7_moveit_configConfig.cmake

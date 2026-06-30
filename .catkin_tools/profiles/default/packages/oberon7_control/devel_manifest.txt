@@ -1,0 +1,4 @@
+uuv_manipulators/oberon7/oberon7_control
+/home/timsea/code_space/uuv_ws/devel/.private/oberon7_control/lib/pkgconfig/oberon7_control.pc /home/timsea/code_space/uuv_ws/devel/lib/pkgconfig/oberon7_control.pc
+/home/timsea/code_space/uuv_ws/devel/.private/oberon7_control/share/oberon7_control/cmake/oberon7_controlConfig-version.cmake /home/timsea/code_space/uuv_ws/devel/share/oberon7_control/cmake/oberon7_controlConfig-version.cmake
+/home/timsea/code_space/uuv_ws/devel/.private/oberon7_control/share/oberon7_control/cmake/oberon7_controlConfig.cmake /home/timsea/code_space/uuv_ws/devel/share/oberon7_control/cmake/oberon7_controlConfig.cmake

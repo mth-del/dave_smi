@@ -1,0 +1,6 @@
+uuv_simulator/uuv_world_plugins/uuv_world_ros_plugins
+/home/timsea/code_space/uuv_ws/devel/.private/uuv_world_ros_plugins/lib/libuuv_sc_ros_interface_plugin.so /home/timsea/code_space/uuv_ws/devel/lib/libuuv_sc_ros_interface_plugin.so
+/home/timsea/code_space/uuv_ws/devel/.private/uuv_world_ros_plugins/lib/libuuv_underwater_current_ros_plugin.so /home/timsea/code_space/uuv_ws/devel/lib/libuuv_underwater_current_ros_plugin.so
+/home/timsea/code_space/uuv_ws/devel/.private/uuv_world_ros_plugins/lib/pkgconfig/uuv_world_ros_plugins.pc /home/timsea/code_space/uuv_ws/devel/lib/pkgconfig/uuv_world_ros_plugins.pc
+/home/timsea/code_space/uuv_ws/devel/.private/uuv_world_ros_plugins/share/uuv_world_ros_plugins/cmake/uuv_world_ros_pluginsConfig.cmake /home/timsea/code_space/uuv_ws/devel/share/uuv_world_ros_plugins/cmake/uuv_world_ros_pluginsConfig.cmake
+/home/timsea/code_space/uuv_ws/devel/.private/uuv_world_ros_plugins/share/uuv_world_ros_plugins/cmake/uuv_world_ros_pluginsConfig-version.cmake /home/timsea/code_space/uuv_ws/devel/share/uuv_world_ros_plugins/cmake/uuv_world_ros_pluginsConfig-version.cmake

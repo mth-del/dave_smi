@@ -1,0 +1,4 @@
+dave/urdf/manipulators/plug_and_socket_description
+/home/timsea/code_space/uuv_ws/devel/.private/plug_and_socket_description/lib/pkgconfig/plug_and_socket_description.pc /home/timsea/code_space/uuv_ws/devel/lib/pkgconfig/plug_and_socket_description.pc
+/home/timsea/code_space/uuv_ws/devel/.private/plug_and_socket_description/share/plug_and_socket_description/cmake/plug_and_socket_descriptionConfig.cmake /home/timsea/code_space/uuv_ws/devel/share/plug_and_socket_description/cmake/plug_and_socket_descriptionConfig.cmake
+/home/timsea/code_space/uuv_ws/devel/.private/plug_and_socket_description/share/plug_and_socket_description/cmake/plug_and_socket_descriptionConfig-version.cmake /home/timsea/code_space/uuv_ws/devel/share/plug_and_socket_description/cmake/plug_and_socket_descriptionConfig-version.cmake

@@ -1,0 +1,4 @@
+dave/urdf/manipulators/predator_control
+/home/timsea/code_space/uuv_ws/devel/.private/predator_control/lib/pkgconfig/predator_control.pc /home/timsea/code_space/uuv_ws/devel/lib/pkgconfig/predator_control.pc
+/home/timsea/code_space/uuv_ws/devel/.private/predator_control/share/predator_control/cmake/predator_controlConfig-version.cmake /home/timsea/code_space/uuv_ws/devel/share/predator_control/cmake/predator_controlConfig-version.cmake
+/home/timsea/code_space/uuv_ws/devel/.private/predator_control/share/predator_control/cmake/predator_controlConfig.cmake /home/timsea/code_space/uuv_ws/devel/share/predator_control/cmake/predator_controlConfig.cmake

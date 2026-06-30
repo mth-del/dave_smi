@@ -1,0 +1,4 @@
+dave/urdf/manipulators/predator_description
+/home/timsea/code_space/uuv_ws/devel/.private/predator_description/lib/pkgconfig/predator_description.pc /home/timsea/code_space/uuv_ws/devel/lib/pkgconfig/predator_description.pc
+/home/timsea/code_space/uuv_ws/devel/.private/predator_description/share/predator_description/cmake/predator_descriptionConfig.cmake /home/timsea/code_space/uuv_ws/devel/share/predator_description/cmake/predator_descriptionConfig.cmake
+/home/timsea/code_space/uuv_ws/devel/.private/predator_description/share/predator_description/cmake/predator_descriptionConfig-version.cmake /home/timsea/code_space/uuv_ws/devel/share/predator_description/cmake/predator_descriptionConfig-version.cmake
